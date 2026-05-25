@@ -3,3 +3,5 @@
 11May2026 uploaded Unit01 Homework
 18May2026 uploaded Unit02 2.1_NumPy和陣列導向的程式設計_IMLP_469_劉仙華
 20May2026 uploaded Unit02 2.2.2_Pandas數據分析_IMLP_469_劉仙華
+25May2026 uploaded Unit02 2.4.2_Seaborn數據視覺化_IMLP_469_劉仙華
+25May2026 uploaded Unit02 2.3.2_Matplotlib資料視覺化_IMLP_469_劉仙華
