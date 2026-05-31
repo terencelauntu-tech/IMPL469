@@ -6,3 +6,4 @@
 25May2026 uploaded Unit02 2.4.2_Seaborn數據視覺化_IMLP_469_劉仙華
 25May2026 uploaded Unit02 2.3.2_Matplotlib資料視覺化_IMLP_469_劉仙華
 30May2026 uploaded Unit03 6_scikit_learn_Basic_實戰_IMLP_469_劉仙華
+31May2026 uploaded Unit03 4_Categorical_features_實戰_IMLP_469_劉仙華
