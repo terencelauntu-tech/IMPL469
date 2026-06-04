@@ -8,3 +8,4 @@
 30May2026 uploaded Unit03 6_scikit_learn_Basic_實戰_IMLP_469_劉仙華
 31May2026 uploaded Unit03 4_Categorical_features_實戰_IMLP_469_劉仙華
 31May2026 uploaded Unit03 5_Prepocessing_實戰_IMLP_469_劉仙華
+4June2026 uploaded Unit04 Linear Regression_HW_IMLP_469_劉仙華
