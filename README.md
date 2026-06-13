@@ -11,3 +11,4 @@
 4June2026 uploaded Unit04 Linear Regression_HW_IMLP_469_劉仙華
 7June2026 uploaded Unit5.1 02_Logistic regression實戰_IMLP_469_劉仙華
 7June2026 uploaded Unit5.2 SVM實戰_IMLP_469_劉仙華
+13June2026 uploaded Unit06 1.3_ConfusionMatrix_實戰_IMLP_469_劉仙華
